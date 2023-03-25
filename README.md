@@ -1,1 +1,3 @@
-I am from Suryapet, India. I completed my undergraduate in computer science at CVR College of  Engineering, Hyderabad. I am currently graduating in Applied Computer Science from Northwest Missouri State University.  I have to gain more knowledge in data bases and improve my technical skills. I would like to become full stack developer.
+🔭 I’m currently pursuing Masters at Northwest Missouri State University
+🌱 I’m currently learning java Full Stack
+📫 How to reach me: Maharajula27@gmail.com
