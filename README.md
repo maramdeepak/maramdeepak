@@ -1,3 +1,2 @@
-🔭 I’m currently pursuing Masters at Northwest Missouri State University
-🌱 I’m currently learning java Full Stack
-📫 How to reach me: maramdeepakr@gmail.com
+
+📫 How to reach me: maramdeepakreddy9949@gmail.com
